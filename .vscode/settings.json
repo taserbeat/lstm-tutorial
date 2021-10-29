@@ -35,4 +35,12 @@
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "vscode.json-language-features",
   },
+  "[jsonc]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "vscode.json-language-features",
+  },
 }
